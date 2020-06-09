@@ -1,14 +1,16 @@
 # SeleniumAndAPITesting
 
-Run below command to install all dependencies
+# Run below command to install all dependencies
 
 pip install -r dependency.txt
 
-RUn tests
+# Run tests
 
 pytest Basic.py
 
-Example:
+# Example:
+
+
 $ pytest Basic.py
 ============================= test session starts =============================
 platform win32 -- Python 3.7.3, pytest-5.0.1, py-1.8.0, pluggy-0.12.0
@@ -19,3 +21,5 @@ collected 3 items
 Basic.py ...                                                             [100%]
 
 ========================== 3 passed in 1.60 seconds ===========================
+
+#
