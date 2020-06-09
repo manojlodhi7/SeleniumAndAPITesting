@@ -12,6 +12,7 @@ pytest Basic.py
 
 
 $ pytest Basic.py
+
 ============================= test session starts =============================
 platform win32 -- Python 3.7.3, pytest-5.0.1, py-1.8.0, pluggy-0.12.0
 rootdir: C:\Users\mlodhi\OneDrive - Nice Systems Ltd\Desktop\Python Pract\SeleniumWithAPITesting\API_Verification
